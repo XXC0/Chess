@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Image/back.png</file>
+        <file>Image/back2.png</file>
+        <file>Image/bg1.jpg</file>
+        <file>Image/bg2.jpg</file>
+        <file>Image/bk.jpg</file>
+        <file>Image/black.png</file>
+        <file>Image/black2.png</file>
+        <file>Image/board.jpg</file>
+        <file>Image/buttonBK.png</file>
+        <file>Image/chess.ico</file>
+        <file>Image/close.png</file>
+        <file>Image/face.png</file>
+        <file>Image/machine.png</file>
+        <file>Image/machine2.png</file>
+        <file>Image/min.png</file>
+        <file>Image/network.png</file>
+        <file>Image/network2.png</file>
+        <file>Image/white.png</file>
+        <file>Image/white2.png</file>
+        <file>Image/backgroud.png</file>
+    </qresource>
+</RCC>
